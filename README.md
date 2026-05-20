@@ -1,2 +1,7 @@
-# demo-constructora-godoy-cruz-sa
-Demo web para Constructora Godoy Cruz SA — diseñada por eterlab.
+# Constructora Godoy Cruz SA
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
